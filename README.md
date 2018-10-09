@@ -2,7 +2,7 @@
 
 Javascript picture viewer
 
-[Demo](http://htmlpreview.github.io/?https://github.com/wang-weidong/SlwViewer/blob/master/demo/index.html "Demo")
+[Demo](https://wang-weidong.github.io/SlwViewer/demo/index.html "Demo")
 
 ## Browser Support ##
 - Internet Explorer: 6, 7, 8, 9, 10, 11
