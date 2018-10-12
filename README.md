@@ -2,7 +2,7 @@
 
 Javascript picture viewer
 
-学习参考了 Fengyuan Chen 的代码，见https://github.com/fengyuanchen/viewer，重构并兼容了浏览器
+学习参考了 Fengyuan Chen 的代码重构并兼容了浏览器，参见https://github.com/fengyuanchen/viewer
 
 [Demo](https://wang-weidong.github.io/SlwViewer/demo/index.html "Demo")
 
