@@ -2,6 +2,8 @@
 
 Javascript picture viewer
 
+学习参考了 Fengyuan Chen 的代码，见https://github.com/fengyuanchen/viewer，重构并兼容了浏览器
+
 [Demo](https://wang-weidong.github.io/SlwViewer/demo/index.html "Demo")
 
 ## Browser Support ##
